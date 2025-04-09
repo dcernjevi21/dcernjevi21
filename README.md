@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am finishing year student of Computer Sciences at FOI Varazdin.
+
 <!--
 **dcernjevi21/dcernjevi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
